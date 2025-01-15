@@ -1,0 +1,29 @@
+.hi{
+    font-size: 35px;
+    color: aquamarine;
+}
+.bye{
+    font-size: 35px;
+    color: rgb(47, 188, 113);
+}
+.hello{
+    font-size: 35px;
+    color: rgb(212, 23, 23);
+}
+.boy{
+    font-size: 35px;
+    color: darkblue;
+}
+.yoyo{
+    font-size: 35px;
+}
+.yaya{
+    font-size: 35px;
+}
+*{
+    font-family:'Courier New', Courier, monospace;
+    /*This is the font I used throughout the whole website*/
+}
+*{
+    background-color: rgb(95, 110, 110);
+}
